@@ -1,1 +1,2 @@
+add hi.jpg
 add mod.ini
