@@ -1,2 +1,2 @@
-add hi.jpg
+add raw\stage\w1r04\w1r04_trr_cmn.pac
 add mod.ini
