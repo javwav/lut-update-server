@@ -1,3 +1,5 @@
+1.01: Ares luts hadn't been added, my bad
+
 # Trailer LUTs 1.0 and an important notice
 - Added Kronos LUTs: Day and Night reused from Ouranos, Rain/Cloudy are a more exaggerated version of the rain seen in the story trailer gameplay and some other clips
 - Added Ares LUTs: Day tries to get the look of an Ares concept art (more specifically when cloudy), Night tries to get the look of the Knuckles' short
