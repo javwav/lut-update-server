@@ -1,3 +1,6 @@
+# Trailer LUTs 1.1
+Added support for rainy Kronos' LUT while using birthday details.
+
 1.01: Ares luts hadn't been added, my bad
 
 # Trailer LUTs 1.0 and an important notice
