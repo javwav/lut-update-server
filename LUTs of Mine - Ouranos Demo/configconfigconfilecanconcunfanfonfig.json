@@ -1,0 +1,40 @@
+{
+"Groups": [
+{
+"Name": "Main",
+"DisplayName": "CONFIGURATION",
+"Elements": [
+{
+"Name": "IncludeDir1",
+"DisplayName": "Kronos Weather LUT",
+"Description": [
+"Set which LUT to use when it's cloudy/raining in Kronos"
+],
+"Type": "w1r03_rgb_table2",
+"MinValue": null,
+"MaxValue": null,
+"DefaultValue": "w1r03BlueLUT2"
+}
+]
+}
+],
+"Enums": {
+"w1r03_rgb_table2": [
+{
+"DisplayName": "White sky",
+"Value": "w1r03BlueLUT2",
+"Description": [
+"From the little chunks of gameplay we could see in trailers"
+]
+},
+{
+"DisplayName": "Yellow sky",
+"Value": "w1r03YellowLUT2",
+"Description": [
+"From the Marza promotional content (w1r03YellowLUT2 in the files)"
+]
+}
+]
+},
+"IniFile": "mod.ini"
+}

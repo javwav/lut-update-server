@@ -1,3 +1,10 @@
+# Trailer LUTs 1.2
+- Replaced Kronos/Rhea world.rfl with Ouranos' (Kronos and Rhea are tied together if you didn't know hehe)
+- This means now the Ouranos cloudy LUT works in Kronos and Rhea yay
+- So I made the mod configurable to choose between that LUT and the new Kronos/Rhea cloudy/rainy one
+- The new Kronos/Rhea weather LUT is closer to the Story Trailer tiny gameplay bit from Gamescom 2022. Since now it actually looks good lmao
+- The Day (Sunny) Kronos/Rhea/Ouranos RGB table doesn't get as dark now.
+
 # Trailer LUTs 1.1
 Added support for rainy Kronos' LUT while using birthday details.
 
