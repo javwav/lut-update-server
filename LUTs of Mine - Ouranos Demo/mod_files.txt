@@ -1,13 +1,1 @@
-add main/raw/stage/w1r03/w1r03_birthday
-add main/raw/stage/w1r03/w1r03_misc
-add main/raw/stage/w1r04/w1r04_trr_cmn
-add main/raw/stage/w2r01/w2r01_trr_cmn
-add w1r03BlueLUT2/raw/stage/w1r03/w1r03_trr_cmn
-add w1r03YellowLUT2/raw/stage/w1r03/w1r03_trr_cmn
-delete raw/stage/w1r03/w1r03_trr_cmn
-delete raw/stage/w1r03/w1r03_misc
-delete raw/stage/w1r03/w1r03_birthday
-delete raw/stage/w1r04/w1r04_trr_cmn
-delete raw/stage/w2r01/w2r01_trr_cmn
-add configconfigconfilecanconcunfanfonfig.json
 add mod.ini
