@@ -1,4 +1,4 @@
-The update is not working, I'm working on that currently and you will see updates popping up for a while. Feel free to uninstall the mod until the update is released on gamebanana if this is specially annoying to you.
+Now it works!!
 
 # Trailer LUTs 1.2
 - Replaced Kronos/Rhea world.rfl with Ouranos' (Kronos and Rhea are tied together if you didn't know hehe)
