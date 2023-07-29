@@ -1,4 +1,10 @@
-Now it works!!
+# Trailer LUTs 1.3
+- Added a lot of compatibility options:
+- Now you can disable LUTs in each island in case you want to use this mod alongside other LUT mods, for example this mod's Kronos LUTs and everything else from Cinematic LUTs
+- To disable Kronos/Rhea LUTs select "None" in the first tab in the options menu
+- Kronos Weather LUT On/Off disables the world.rfl in this mod, you can enable it without using LUTs here. It disables the Rainy Kronos LUT for better compatibility with other Kronos mods.
+- Suggestion: Use Cinematic LUTs with "Kronos Weather LUT" enabled in this mod! (and make sure this is loaded above it)
+- Btw Ratchet and Clank is really cool
 
 # Trailer LUTs 1.2
 - Replaced Kronos/Rhea world.rfl with Ouranos' (Kronos and Rhea are tied together if you didn't know hehe)

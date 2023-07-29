@@ -5,15 +5,54 @@
 "DisplayName": "CONFIGURATION",
 "Elements": [
 {
-"Name": "IncludeDir1",
+"Name": "IncludeDir3",
 "DisplayName": "Kronos Weather LUT",
 "Description": [
-"Set which LUT to use when it's cloudy/raining in Kronos"
+"Set which LUT to use when it's cloudy/raining in Kronos. (Select None to disable Kronos LUTs)"
 ],
 "Type": "w1r03_rgb_table2",
-"MinValue": null,
+"MinValue": null,	
 "MaxValue": null,
 "DefaultValue": "w1r03BlueLUT2"
+}
+]
+},
+{
+"Name": "Main",
+"DisplayName": "COMPATIBILITY OPTIONS",
+"Elements": [
+{
+"Name": "IncludeDir0",
+"DisplayName": "Kronos Weather LUT",
+"Description": [
+"Disable or Enable Kronos' rainy LUT, disable it for better compatibilty with other Kronos Island mods. The configuration above will be ignored unless you selected <None>"
+],
+"Type": "w1r03_misc",
+"MinValue": null,
+"MaxValue": null,
+"DefaultValue": "w1r03.rfl"
+},
+{
+"Name": "IncludeDir4",
+"DisplayName": "Ares LUTs",
+"Description": [
+"Disable or Enable Ares LUTs. Disable them if you want to use other mods like Cinematic LUTs instead"
+],
+"Type": "w2r01",
+"MinValue": null,
+"MaxValue": null,
+"DefaultValue": "w2r01 luts"
+},
+{
+"Name": "IncludeDir1",
+"DisplayName": "Ouranos LUTs",
+"Description": [
+"Disable or Enable Ouranos LUTs. Disable them if you want to use other mods like Cinematic LUTs instead"
+],
+"Type": "w1r04",
+"MinValue": null,
+"MaxValue": null,
+"DefaultValue": "w1r04 luts"
 }
 ]
 }
@@ -32,6 +71,61 @@
 "Value": "w1r03YellowLUT2",
 "Description": [
 "From the Marza promotional content (w1r03YellowLUT2 in the files)"
+]
+},
+{
+"DisplayName": "None",
+"Value": "empty",
+"Description": [
+"Disables Kronos LUTs"
+]
+}
+],
+"w1r03_misc": [
+{
+"DisplayName": "On",
+"Value": "w1r03.rfl",
+"Description": [
+"Enabled rainy Kronos LUT"
+]
+},
+{
+"DisplayName": "Off",
+"Value": "empty",
+"Description": [
+"Disabled Rainy Kronos LUT"
+]
+}
+],
+"w2r01": [
+{
+"DisplayName": "On",
+"Value": "w2r01 luts",
+"Description": [
+"Enabled Ares LUTs"
+]
+},
+{
+"DisplayName": "Off",
+"Value": "empty",
+"Description": [
+"Disabled Ares LUTs"
+]
+}
+],
+"w1r04": [
+{
+"DisplayName": "On",
+"Value": "w1r04 luts",
+"Description": [
+"Enabled Ouranos LUTs"
+]
+},
+{
+"DisplayName": "Off",
+"Value": "empty",
+"Description": [
+"Disabled Ouranos LUTs"
 ]
 }
 ]
