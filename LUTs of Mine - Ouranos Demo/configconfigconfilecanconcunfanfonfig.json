@@ -8,7 +8,7 @@
 "Name": "IncludeDir3",
 "DisplayName": "Kronos Weather LUT",
 "Description": [
-"Set which LUT to use when it's cloudy/raining in Kronos. (Select None to disable Kronos LUTs)"
+"Set which LUT to use when it's cloudy/raining in Kronos. If you're using True Kronos this will not show up on Rhea and Ouranos. (Select None to disable Kronos LUTs)"
 ],
 "Type": "w1r03_rgb_table2",
 "MinValue": null,	
@@ -25,7 +25,7 @@
 "Name": "IncludeDir0",
 "DisplayName": "Kronos Weather LUT",
 "Description": [
-"Disable or Enable Kronos' rainy LUT, disable it for better compatibilty with other Kronos Island mods. The configuration above will be ignored unless you selected <None>"
+"Disable or Enable Kronos' world.rfl (rainy LUT), disable it for better compatibilty with other Kronos Island mods, you can enable it if you are using True Kronos. The configuration above will be ignored unless you selected <None>"
 ],
 "Type": "w1r03_misc",
 "MinValue": null,

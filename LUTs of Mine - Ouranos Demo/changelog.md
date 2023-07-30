@@ -1,3 +1,6 @@
+# Trailer LUTs 1.31
+- The mod is now compatible with True Kronos. Keep in mind that it doesn't rain or get cloudy on Rhea and Ouranos. Also make sure this mod is loaded above True Kronos
+
 # Trailer LUTs 1.3
 - Added a lot of compatibility options:
 - Now you can disable LUTs in each island in case you want to use this mod alongside other LUT mods, for example this mod's Kronos LUTs and everything else from Cinematic LUTs
