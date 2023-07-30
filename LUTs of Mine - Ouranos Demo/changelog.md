@@ -7,6 +7,7 @@
 - To disable Kronos/Rhea LUTs select "None" in the first tab in the options menu
 - Kronos Weather LUT On/Off disables the world.rfl in this mod, you can enable it without using LUTs here. It disables the Rainy Kronos LUT for better compatibility with other Kronos mods.
 - Suggestion: Use Cinematic LUTs with "Kronos Weather LUT" enabled in this mod! (and make sure this is loaded above it)
+- You can go to the mod's files and delete the "main" folder as it is no longer used and i kind of don't know how to delete it from here lmao.
 - Btw Ratchet and Clank is really cool
 
 # Trailer LUTs 1.2
